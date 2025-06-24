@@ -1,0 +1,8 @@
+{
+  "Name": "PS13 study-specific template pipeline with revision",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {"Name": "PS13 Pipeline", "Version": "2034"}
+  ]
+}

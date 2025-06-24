@@ -83,3 +83,6 @@ mrs_fmrs	Functional MRS data involving a pain stimulus task from 15 subjects	[li
 xeeg_hed_score	EEG and iEEG data with annotations of artifacts, seizures and modulators using HED-SCORE 		[@dorahermes](https://github.com/dorahermes)	anat, eeg, ieeg	T1w, channels, coordsystem, eeg, electrodes, events, ieeg
 dwi_deriv	exemplifies the storage of diffusion MRI derivates that may be generated on the Siemens XA platform.			dwi	dwi
 ps13-pipeline	Example PS13 PET atlas pipeline outputs	[link](https://doi.org/10.18112/openneuro.ds004401.v1.3.0)	[@bids-standard](https://github.com/bids-standard)	pet	pet,dseg
+ps13rev2034-pipeline	Revision of PS13 PET atlas outputs [link](https://doi.org/10.18112/openneuro.ds004401.v1.3.0)	[@bids-standard](https://github.com/bids-standard)	pet	pet,dseg
+ps13-study-template	PS13 atlas in study-specific template with conversions	[@bids-standard](https://github.com/bids-standard)	pet	pet,dseg
+ps13-study-template-rev	PS13 study template with atlas revision	[@bids-standard](https://github.com/bids-standard)	pet	pet,dseg
