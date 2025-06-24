@@ -1,0 +1,6 @@
+{
+  "AtlasName": "PS13 COX-1 PET atlas revision 2034",
+  "AtlasSampleSize": 13,
+  "SpatialReference": "MNI152Lin",
+  "Description": "Updated manual segmentation with new regions"
+}

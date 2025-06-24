@@ -1,0 +1,8 @@
+{
+  "Name": "SUIT pipeline example",
+  "BIDSVersion": "1.10.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {"Name": "SUIT Pipeline", "Version": "1.0"}
+  ]
+}
