@@ -1,0 +1,6 @@
+{
+  "AtlasName": "PS13 COX-1 PET atlas",
+  "AtlasSampleSize": 13,
+  "SpatialReference": "MNI152Lin",
+  "Description": "Example atlas generated from PS13 PET data"
+}
