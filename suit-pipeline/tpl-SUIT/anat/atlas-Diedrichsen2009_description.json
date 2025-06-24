@@ -1,0 +1,10 @@
+{
+  "AtlasName": "SUIT Diedrichsen2009 atlas",
+  "AtlasSampleSize": 20,
+  "SpatialReference": "https://templateflow.s3.amazonaws.com/tpl-MNI152Lin_res-01_T1w.nii.gz",
+  "License": "LICENSE file",
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1016/j.neuroimage.2009.01.045"
+  ],
+  "Species": "Human"
+}
